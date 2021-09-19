@@ -1,5 +1,5 @@
 ﻿#Login to Azure
-Login-AzAccount
+#Login-AzAccount
 Set-Item Env:\SuppressAzurePowerShellBreakingChangeWarnings "true"
 
 #Create Resource Group 
